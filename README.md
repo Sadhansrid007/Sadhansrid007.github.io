@@ -1,5 +1,3 @@
-<h1 align="center">🧠 Neo4j RAG Dashboard</h1>
-
 <p align="center">
   <img src="assets/og-banner.png" alt="Portfolio Preview" width="100%">
 </p>
