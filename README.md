@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://sadhansrid007.github.io/">
-  <img src="assets/og-banner.png" alt="Sadhan Sridhar — portfolio banner" width="100%">
-</a>
+  <img src="image_LBLJbo.png" alt="Sadhan Sridhar Portfolio Banner" width="800"/>
 </p>
 
 <h1 align="center">Sadhan Sridhar</h1>
