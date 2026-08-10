@@ -1,5 +1,7 @@
+<h1 align="center">🧠 Neo4j RAG Dashboard</h1>
+
 <p align="center">
-  <img src="image_LBLJbo.png" alt="Sadhan Sridhar Portfolio Banner" width="800"/>
+  <img src="assets/og-banner.png" alt="Portfolio Preview" width="100%">
 </p>
 
 <h1 align="center">Sadhan Sridhar</h1>
